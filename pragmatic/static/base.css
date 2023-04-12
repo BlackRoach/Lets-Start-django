@@ -1,0 +1,19 @@
+.pragmatic_logo{
+    font-family: 'Lobster', cursive;
+}
+
+.pragmatic_bottom_logo{
+    margin-top: 1rem;
+}
+
+.pragmatic_bottom_button{
+    font-size: .6rem;
+}
+
+.pragmatic_top{
+    text-align:center; margin: 2rem 0;
+}
+.pragmatic_bottom{
+    text-align:center; margin: 2rem 0;
+    font-size: .6rem;
+}
